@@ -95,7 +95,7 @@ return this
 }
 function copyText() {
   /* Get the text field */
-  var copyText = document.getElementById("WordForm");
+  var copyText = document.getElementById("wordbox");
 
   /* Select the text field */
   copyText.select();
