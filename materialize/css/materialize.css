@@ -9083,14 +9083,3 @@ input[type=range]::-ms-thumb {
     margin-top: 1.2rem;
   }
 }
-.footer {
-    margin: auto;
-    width: 860px;
-    padding: 20px;
-    background: #000000;
-    border: 1px solid #000000;
-    border-top: 1px dashed #777777;
-    font-size: 14px;
-    margin-bottom: 30px;
-    height: 70px;
-}
