@@ -796,7 +796,17 @@
 }
 
 .light-blue.lighten-1 {
-  background-color: #29b6f6 !important;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  z-index: 99;
+  padding: 15px 0;
+  background: rgba(27, 27, 39, 0.6);
+  backdrop-filter: blur(5px);
+  border-bottom: 1px solid rgba(229, 229, 229, 0.3);
+  height: 70px;
 }
 
 .light-blue-text.text-lighten-1 {
