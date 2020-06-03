@@ -4,7 +4,7 @@ var words = new BuildArray(NumberOfWords)
 // Use the following variables to 
 // define your random words:
 words[1] = "https://shrinkme.io/j5ohM6" 
-words[2] = "" 
+words[2] = "https://shrinkme.io/aJIOWow1" 
 words[3] = "" 
 words[4] = "" 
 words[5] = "" 
