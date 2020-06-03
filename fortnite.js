@@ -3,13 +3,13 @@ var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "" 
-words[2] = "" 
-words[3] = "" 
-words[4] = "" 
-words[5] = "" 
-words[6] = "" 
-words[7] = "" 
+words[1] = "http://gestyy.com/eq0RDs" 
+words[2] = "http://gestyy.com/eq0R4k" 
+words[3] = "http://gestyy.com/eq0R7j" 
+words[4] = "http://gestyy.com/eq0R9d" 
+words[5] = "http://gestyy.com/eq0T0P" 
+words[6] = "http://gestyy.com/eq0TqV" 
+words[7] = "http://gestyy.com/eq0TeF" 
 words[8] = "" 
 words[9] = "" 
 words[10] = "" 
