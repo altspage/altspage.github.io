@@ -756,8 +756,7 @@
 }
 
 .light-blue {
-  background-color: #1b272d !important;
-  background: rgba(0,0,0,0.3);
+  background-color: #1b272da1 !important;
 }
 
 .light-blue-text {
