@@ -1,10 +1,10 @@
-var NumberOfWords = 83
+var NumberOfWords = 2
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "" 
-words[2] = "" 
+words[1] = "Sorry, Apex Generator is currently restocking." 
+words[2] = "Sorry, Apex Generator is currently restocking." 
 words[3] = "" 
 words[4] = "" 
 words[5] = "" 
