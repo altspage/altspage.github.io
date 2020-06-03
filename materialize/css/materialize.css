@@ -2592,7 +2592,13 @@ html {
 }
 
 button,
-input,
+input, select, textarea{
+    color: #eff6ff;
+}
+
+textarea:focus, input:focus {
+    color: #eff6ff;
+}
 optgroup,
 select,
 textarea {
