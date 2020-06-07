@@ -1,4 +1,4 @@
-var NumberOfWords = 83
+var NumberOfWords = 64
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
@@ -109,5 +109,5 @@ function PickRandomWord(frm) {
 var rnd = Math.ceil(Math.random() * NumberOfWords)
 
 // Display the word inside the text box
-frm.WordBox.value = words[rnd] {
+frm.WordBox.value = words[rnd] 
 }
