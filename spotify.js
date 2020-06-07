@@ -109,5 +109,5 @@ function PickRandomWord(frm) {
 var rnd = Math.ceil(Math.random() * NumberOfWords)
 
 // Display the word inside the text box
-frm.WordBox.value = words[rnd]
+frm.WordBox.value = words[rnd] {
 }
