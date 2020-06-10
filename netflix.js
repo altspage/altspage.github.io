@@ -1,10 +1,10 @@
-var NumberOfWords = 1
+var NumberOfWords = 2
 var words = new BuildArray(NumberOfWords)
 
 // Use the following variables to 
 // define your random words:
-words[1] = "Netflix Account Generator coming soon. Join our discord to know when!" 
-words[2] = "" 
+words[1] = "Netflix Account Generator is coming soon. Join our discord server to know when." 
+words[2] = "Netflix Account Generator is coming soon. Join our discord server to know when." 
 words[3] = "" 
 words[4] = "" 
 words[5] = "" 
